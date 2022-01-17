@@ -1,5 +1,5 @@
 #react-practice
-- [ ]components
-- [ ]props
-- [ ]state
-- [ ]hooks
+- ([x]) components
+- ([x]) props
+- ([x]) state
+- ([x]) hooks
